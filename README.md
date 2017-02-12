@@ -7,6 +7,6 @@
 Мой [VK](https://vk.com/al_kondr), по любым вопросам можно обращаться.
 
 TODO:
- - скачать среду для Python: [Wing](https://wingware.com/) или [PyCharm](https://www.jetbrains.com/pycharm/specials/pycharm/pycharm.html?&gclid=Cj0KEQiAifvEBRCVx5up6Ojgr5oBEiQALHw1Tvsw7GtTQGA90Mf4kPLDpA1A2HGBA8w56JPI3vQVBm0aAnPa8P8HAQ&gclsrc=aw.ds.ds&dclid=CJbV8e_CiNICFQUYGAodnWkI0w).
+ - скачать среду для Python: [Wing](https://wingware.com/) или [PyCharm](https://www.jetbrains.com/pycharm-edu/).
  - Зарегистрироваться на [informatics](http://informatics.mccme.ru/) и [codeforces](http://codeforces.com/).
  - Можете начать проходить обучалки на [pythontutor](http://pythontutor.ru/), если норм с английским, то можно на [codecademy](https://www.codecademy.com/learn/python).
