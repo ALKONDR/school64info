@@ -1,13 +1,13 @@
 # Семинар 1
 
-На этом уроке вы узнаете:
+На этом семинаре вы узнаете:
  - О простейших математических операциях в Python.
  - О том, что такое переменная и какие типы переменных бывают.
  - Как вводить и выводить различную информацию.
  - О части возможностей библиотеки math.
  - Об условных операторах
- 
- Вся та же информация и немного дополнительных моментов в видео уроках:
+
+Вся та же информация и немного дополнительных моментов в видео уроках:
  - На английском: [1](https://www.youtube.com/watch?v=EFDbfoXAeBg&list=PLDrmKwRSNx7LSwH9FcFmWyHRr7W-UkbNT), [2](https://www.youtube.com/watch?v=Ilbh-qpmpeI&index=5&list=PLDrmKwRSNx7LSwH9FcFmWyHRr7W-UkbNT)
  - На русском: [1](https://www.youtube.com/watch?v=qArArdupftM), [2](https://www.youtube.com/watch?v=T-DmoA08d3Y), [3](https://www.youtube.com/watch?v=T-DmoA08d3Y), [4](https://www.youtube.com/watch?v=5h-KmmxEMvA), [5](https://www.youtube.com/watch?v=BVHhfQgRmuE), [6](https://www.youtube.com/watch?v=eFmvvJXxs7g)
  
