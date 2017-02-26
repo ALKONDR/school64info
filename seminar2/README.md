@@ -11,8 +11,8 @@
 Домашка (да, опять много задач, на этот раз они чуть сложнее):
  - [Задача 1](http://informatics.mccme.ru/mod/statements/view.php?id=280)
  - [Задача 2](http://informatics.mccme.ru/mod/statements/view3.php?id=280&chapterid=339)
- - [Задача 3]http://informatics.mccme.ru/mod/statements/view3.php?id=249&chapterid=3062)
- - [Задача 4]http://informatics.mccme.ru/mod/statements/view3.php?id=249&chapterid=3063)
+ - [Задача 3](http://informatics.mccme.ru/mod/statements/view3.php?id=249&chapterid=3062)
+ - [Задача 4](http://informatics.mccme.ru/mod/statements/view3.php?id=249&chapterid=3063)
  - [Задача 5](http://informatics.mccme.ru/mod/statements/view3.php?id=2741&chapterid=3166)
  - [Задача 6](http://codeforces.com/problemset/problem/158/A)
  - [Задача 7](http://codeforces.com/problemset/problem/231/A)
